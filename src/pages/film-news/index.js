@@ -6,8 +6,8 @@ export default class NewsIndexPage extends React.Component {
   render() {
     return (
       <Layout
-        title="Новости кино —  Последний Киногерой"
-        description="Новости кино со всего мира! Трейлеры, постеры, кадры, биографии актеров, описания фильмов и сериалов."
+        title="Movie News"
+        description="Vano VHS"
       >
         <div
           className="margin-top-0"
@@ -23,7 +23,7 @@ export default class NewsIndexPage extends React.Component {
               textAlign: "center",
             }}
           >
-            Новости
+            Movie News
           </h1>
         </div>
         <section className="section">

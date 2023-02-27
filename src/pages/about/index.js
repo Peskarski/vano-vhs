@@ -32,8 +32,8 @@ export default function ListIndexPage() {
   const cx = useStyles();
   return (
     <Layout
-      title="Кто такой Последний Киногерой?"
-      description="Кто такой Последний Киногерой?"
+      title="About me"
+      description="About Vano VHS"
     >
       <section className="section">
         <div className="container">
@@ -41,16 +41,16 @@ export default function ListIndexPage() {
             <div className={cx.container}>
               <img src="img/about.png" className={cx.img} />
               <div className={cx.text}>
-                <h2>Кто такой Последний Киногерой?</h2>
+                <h2>Who is Vano VHS?</h2>
                 <p>
-                  Привет, друзья! Меня зовут Иван Пятовский, более известный как Последний Киногерой. Я беру ваши любимые фильмы, и разбираю по косточкам, особенно криминальные шедевры. Если вы любите анализировать ленты, сценарии и киногероев — Добро пожаловать!
+                Hello my Goodfellas! My name is Ivan Piatouski, better known as Vano VHS. I take your favorite movies and breakdown them on detail level, especially the crime masterpieces. If you like to analyze films, scripts and movie characters, enjoy!
                 </p>
                 <a
-                  href="https://www.youtube.com/channel/UC_YZJoxVlFb5ALSG9Okdmkg?sub_confirmation=1"
+                  href="https://www.youtube.com/@vanovhs/videos"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src="img/Sbscribe.png" className={cx.subscribe} />
+                  <img src="img/SUBSCRIBE.png" className={cx.subscribe} />
                 </a>
               </div>
             </div>

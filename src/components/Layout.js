@@ -79,22 +79,6 @@ const TemplateWrapper = ({ children, title, description }) => {
   const { title: metaTitle, description: metaDescription } = useSiteMetadata();
   const cx = useStyles();
 
-  React.useEffect(() => {
-    {
-      if (typeof window === "undefined" || !window.document) {
-        console.log(`bailing out of the useeffect. Going to continue to render??`);
-      } else {
-        const isScript = window.document.querySelector('#adv');
-        if (!isScript) {
-          const script = window.document.createElement('script');
-        script.setAttribute('id', 'adv');
-        script.innerHTML = "(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5365524,document.body||document.documentElement)";
-        document.head.appendChild(script);
-        }
-      }
-    }
-  }, []);
-
   return (
     <div className={cx.layout}>
       <Helmet>
@@ -106,24 +90,24 @@ const TemplateWrapper = ({ children, title, description }) => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix("/")}img/favicon-gold.png`}
+          href={`${withPrefix("/")}img/android-chrome-512x512.png`}
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-gold.png`}
+          href={`${withPrefix("/")}img/android-chrome-512x512.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-gold.png`}
+          href={`${withPrefix("/")}img/android-chrome-512x512.png`}
           sizes="16x16"
         />
 
         <link
           rel="mask-icon"
-          href={`${withPrefix("/")}img/favicon-gold.png`}
+          href={`${withPrefix("/")}img/android-chrome-512x512.png`}
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
@@ -133,8 +117,9 @@ const TemplateWrapper = ({ children, title, description }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/favicon-gold.png`}
+          content={`${withPrefix("/")}img/android-chrome-512x512.png`}
         />
+        <meta name="monetag" content="0d42dc8b12ee5b2d494d861f12426e55"></meta>
       </Helmet>
       <Navbar />
       <div className={cx.children}>{children}</div>

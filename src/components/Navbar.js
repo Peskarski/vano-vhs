@@ -59,39 +59,27 @@ class Navbar extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              {/* <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link> */}
               <Link className="navbar-item" to="/">
-                Самое интересное
+                Hot
               </Link>
               <Link className="navbar-item" to="/film-lists">
-                Подборки фильмов
+                Movie Lists
               </Link>
               <Link className="navbar-item" to="/film-news">
-                Новости
+                Moview News
               </Link>
               <Link className="navbar-item" to="/film-reviews">
-                Обзоры
+                Movie Reviews
+              </Link>
+              <Link className="navbar-item" to="/godfather">
+                The Godfather
               </Link>
               <Link className="navbar-item" to="/products">
-                Набор блогера
+                My Gear
               </Link>
               <Link className="navbar-item" to="/about">
-                Об авторе
+                About Me
               </Link>
-              {/* <Link className="navbar-item" to="/new">
-                Новая
-              </Link> */}
             </div>
           </div>
         </div>

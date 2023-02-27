@@ -5,8 +5,8 @@ import ReviewRoll from "../../components/ReviewRoll";
 export default function ReviewsIndexPage() {
   return (
     <Layout
-      title="Movie Reviews"
-      description="New movie reviews from Vano VHS!"
+      title="The Godfather"
+      description="Explained by Vano VHS!"
     >
       <div
         className="margin-top-0"
@@ -22,7 +22,7 @@ export default function ReviewsIndexPage() {
             textAlign: "center",
           }}
         >
-          Movie Reviews
+          The Godfather
         </h1>
       </div>
       <section className="section">

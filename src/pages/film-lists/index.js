@@ -6,8 +6,8 @@ export default class ListIndexPage extends React.Component {
   render() {
     return (
       <Layout
-        title="Последний Киногерой"
-        description="Лучшие фильмы, которые ты можешь посмотреть дома или в кино!"
+        title="Movie Lists"
+        description="The best movies you can watch at home or at the cinema!"
       >
         <div
           className="margin-top-0"
@@ -23,7 +23,7 @@ export default class ListIndexPage extends React.Component {
               textAlign: "center",
             }}
           >
-            Подборки фильмов
+            Movie Lists
           </h1>
         </div>
         <section className="section">

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "«Последний Киногерой» — Надежный гид в мире кино!",
-    description: "Последний Киногерой - Культовые Фильмы. Кино Обзоры и Безумные Кинотеории. Тарантино у нас нравится!",
+    title: "«Vano VHS» — The Godfather of YouTube!",
+    description: "Vano VHS - World Movie Classics. Kino Reviews and Crazy Movie Theories!",
   },
   flags: {
     DEV_SSR: true
@@ -139,7 +139,7 @@ module.exports = {
       resolve: `gatsby-plugin-yandex-metrika`,
       options: {
         // The ID of yandex metrika.
-        trackingId: 89695227,
+        trackingId: 92599250,
         // Enabled a webvisor. The default value is `false`.
         webvisor: true,
         // Enables tracking a hash in URL. The default value is `false`.

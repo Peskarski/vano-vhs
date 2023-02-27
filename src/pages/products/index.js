@@ -5,8 +5,8 @@ import ProductRoll from "../../components/ProductRoll";
 export default function ReviewsIndexPage() {
   return (
       <Layout
-        title="Набор блогера"
-        description="Набор блогера"
+        title="My Gear"
+        description="Vano VHS"
       > 
         <div
           className="margin-top-0"
@@ -22,7 +22,7 @@ export default function ReviewsIndexPage() {
               textAlign: "center",
             }}
           >
-            Набор блогера
+            My Gear
           </h1>
         </div>
         <section className="section">

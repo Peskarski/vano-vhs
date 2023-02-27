@@ -8,6 +8,7 @@ import ListsPostPreview from './preview-templates/ListPostPreview';
 import NewsPostPreview from './preview-templates/NewsPostPreview';
 import ReviewPostPreview from './preview-templates/ReviewPostPreview';
 import ProductPostPreview from './preview-templates/ProductPostPreview';
+import GodfatherPostPreview from './preview-templates/GodfatherPostPreview';
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
@@ -17,4 +18,5 @@ CMS.registerPreviewTemplate('blog', BlogPostPreview);
 CMS.registerPreviewTemplate('lists', ListsPostPreview);
 CMS.registerPreviewTemplate('news', NewsPostPreview);
 CMS.registerPreviewTemplate('review', ReviewPostPreview);
+CMS.registerPreviewTemplate('godfather', GodfatherPostPreview);
 CMS.registerPreviewTemplate('product', ProductPostPreview);
