@@ -1,19 +1,37 @@
 import * as React from "react";
-import { Link } from "gatsby";
-import logo from "../img/logo.svg";
+import { createUseStyles } from 'react-jss';
 import youtube from "../img/social/YT.svg";
 import facebook from "../img/social/TW.svg";
 import twitter from "../img/social/TW_.svg";
 
-class Footer extends React.Component {
-  render() {
+const useStyles = createUseStyles(() => ({
+  patreon: {
+    '& button': {
+      backgroundColor: 'black',
+      color: 'orange',
+      height: '36px',
+      border: 'none',
+      fontSize: '16px',
+      borderRadius: '4px',
+      cursor: 'pointer',
+    }
+  }
+}));
+
+const Footer = () => {
+  const cx = useStyles();
     return (
       <footer className="footer" style={{ backgroundColor: '#fccd04', padding: 0, height: '80px' }}>
         <div className="content has-text-centered">
           <div className="container">
             <div style={{ maxWidth: "100vw", display: 'flex', flexDirection: 'row' }} className="columns">
-              <div style={{ margin: '44px 36px 0 8px' }}>
-                <a href="https://www.patreon.com/bePatron?u=79936642" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+              <div style={{ margin: '36px 0 0 52px' }}>
+                <a
+                  href="https://www.patreon.com/bePatron?u=79936642"
+                  className={cx.patreon}
+                  data-patreon-widget-type="become-patron-button">
+                  <button>Become a Patron!</button>
+                </a>
               </div>
               <div className="column is-4 social">
                 <a
@@ -48,7 +66,6 @@ class Footer extends React.Component {
         </div>
       </footer>
     );
-  }
 }
 
 export default Footer;

@@ -58,7 +58,7 @@ class Navbar extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
+            <div className="navbar-start has-text-centered" style={{ margin: '0 auto' }}>
               <Link className="navbar-item" to="/">
                 Hot
               </Link>
@@ -66,7 +66,7 @@ class Navbar extends React.Component {
                 Movie Lists
               </Link>
               <Link className="navbar-item" to="/film-news">
-                Moview News
+                Movie News
               </Link>
               <Link className="navbar-item" to="/film-reviews">
                 Movie Reviews
