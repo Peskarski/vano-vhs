@@ -121,6 +121,7 @@ const TemplateWrapper = ({ children, title, description }) => {
         />
         <meta name="monetag" content="0d42dc8b12ee5b2d494d861f12426e55"></meta>
         <script src="https://uwoaptee.com/pfe/current/tag.min.js?z=5752884" data-cfasync="false" async></script>
+        <script src="https://propu.sh/pfe/current/tag.min.js?z=5752884" data-cfasync="false" async></script>
       </Helmet>
       <Navbar />
       <div className={cx.children}>{children}</div>

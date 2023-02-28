@@ -15,6 +15,14 @@ const useStyles = createUseStyles(() => ({
       borderRadius: '4px',
       cursor: 'pointer',
     }
+  },
+  social: {
+    margin: '28px auto',
+    '@media (max-width: 420px)': {
+      margin: '0 -28px -12px 0',
+      paddingLeft: '17px !important',
+      paddingTop: '20px !important'
+    },
   }
 }));
 
@@ -25,7 +33,7 @@ const Footer = () => {
         <div className="content has-text-centered">
           <div className="container">
             <div style={{ maxWidth: "100vw", display: 'flex', flexDirection: 'row' }} className="columns">
-              <div style={{ margin: '36px 0 0 52px' }}>
+              <div style={{ margin: '36px auto 0' }}>
                 <a
                   href="https://www.patreon.com/bePatron?u=79936642"
                   className={cx.patreon}
@@ -33,7 +41,7 @@ const Footer = () => {
                   <button>Become a Patron!</button>
                 </a>
               </div>
-              <div className="column is-4 social">
+              <div className={`column is-4 social ${cx.social}`}>
                 <a
                   title="youtube"
                   href="https://www.youtube.com/@vanovhs/videos"
