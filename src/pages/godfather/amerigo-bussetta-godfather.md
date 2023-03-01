@@ -18,6 +18,8 @@ H﻿ello my Goodfellas! I'm betting many of you who watched The Godfather 2 wond
 
 ![](/img/06.bocciccios.00_03_14_16.still003.png)
 
+<a href="https://www.patreon.com/bePatron?u=79936642" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+
 The gentleman in black is called Amerigo Bussetta, a Sicilian Mafioso who was Michael Corleone's private bodyguard and a professional assassin who accompanied the Don on his business trip to Cuba.
 
 [Amerigo Bussetta](https://youtu.be/KyncNF3Pflc) was born in Sicily to a very poor family. At a relatively young age, he had started to kill for cash and became famous for his murderous skills. [Don Tommasino](https://youtu.be/G6SwajdQ82Y) soon noticed him and took him under his roof. Next, Bussetta became part of the Corleone family when Michael brought him to America (after Amerigo's exile from Sicily), later Bussetta became Don's personal bodyguard during the conflict in Miami. Now a little on the conflict itself.
@@ -42,19 +44,4 @@ The part of Bussetta was played by Amerigo Tot, the Hungarian sculptor. The Amer
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KyncNF3Pflc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-<a
-                href="https://www.patreon.com/bePatron?u=79936642"
-                data-patreon-widget-type="become-patron-button">
-                <button style={{
-                  backgroundColor: 'black',
-                  color: 'orange',
-                  height: '36px',
-                  border: 'none',
-                  fontSize: '16px',
-                  borderRadius: '4px',
-                  cursor: 'pointer',
-                }}
-                >
-                  Become a Patron!
-                </button>
-              </a>
+<a href="https://www.patreon.com/bePatron?u=79936642" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
