@@ -1,6 +1,6 @@
 import * as React from "react";
 import Layout from "../../components/Layout";
-import ReviewRoll from "../../components/ReviewRoll";
+import GodfatherRoll from "../../components/GodfatherRoll";
 
 export default function ReviewsIndexPage() {
   return (
@@ -28,7 +28,7 @@ export default function ReviewsIndexPage() {
       <section className="section">
         <div className="container" style={{ maxWidth: '1600px' }}>
           <div className="content">
-            <ReviewRoll />
+            <GodfatherRoll />
           </div>
         </div>
       </section>
