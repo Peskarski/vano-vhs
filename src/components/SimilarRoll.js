@@ -86,7 +86,7 @@ const SimilarRollTemplate = (props) => {
 
   return (
     <div className={cx.container}>
-      <h3>Читать далее:</h3>
+      <h3>Read next:</h3>
       {resultPosts.slice(0, 3).map((post) => (
         <Tile post={post} key={post.title} fromSimilar />
       ))}
