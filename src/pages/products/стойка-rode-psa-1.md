@@ -1,8 +1,8 @@
 ---
 templateKey: product-post
-title: Стойка Rode PSA-1
-description: На такую не страшно поставить микрофон. В комплект не входит
-  шокмаунт и поп-фильтр.
+title: The Rode PSA-1 stand
+description: No problem putting a microphone on this one. No shockmount or pop
+  filter is included.
 featuredimage: /img/rode_tripod_template.jpg
 price: $ 98
 ---
