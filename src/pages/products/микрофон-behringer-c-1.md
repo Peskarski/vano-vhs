@@ -1,11 +1,11 @@
 ---
 templateKey: product-post
-title: Микрофон Behringer C-1
-description: Единственный микрофон за 50$, который  хорошо звучит!
+title: Behringer C-1 Mic
+description: The only $50 mic that sounds good!
 featuredimage: /img/behringer_c-1.jpg
 price: $ 49
 ---
-Это единственный микрофон дешевле $60, который  хорошо звучит и требует минимальной коррекции. Конечно, если бюджет позволяет — возьмите что-то получше. Но если бюджет ограничен — лучший вариант для старта!
+It's the only mic under $60 that sounds good and requires minimal adjustments. Of course, if your budget allows, get something better. But if you're on a tight budget, it's the best way to get started!
 
 <a href="http://shp.pub/6ffhht" target="_blank" rel="noreferrer">Купить на AliExpress</a>
 
