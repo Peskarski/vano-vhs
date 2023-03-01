@@ -1,11 +1,11 @@
 ---
 templateKey: product-post
-title: Микрофон FiFine K670
-description: Подойдет для стримов, онлайн-звонков, конференций!
+title: FiFine K670 Mic
+description: Good for streaming, online calls, and conferences!
 featuredimage: /img/fifine_template.jpg
 price: $ 40
 ---
-Подойдет для стримов, онлайн-звонков, конференций!
+Good for streaming, online calls, and conferences!
 
 <a href="http://shp.pub/6fio10" target="_blank" rel="noreferrer">Купить на AliExpress</a>
 
