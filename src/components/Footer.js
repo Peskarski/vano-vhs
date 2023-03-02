@@ -37,7 +37,7 @@ const Footer = () => {
                 <a
                   href="https://www.patreon.com/bePatron?u=79936642"
                   className={cx.patreon}
-                  data-patreon-widget-type="become-patron-button">
+                >
                   <button>Become a Patron!</button>
                 </a>
               </div>
