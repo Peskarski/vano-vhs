@@ -123,6 +123,7 @@ const TemplateWrapper = ({ children, title, description }) => {
         <script src="https://uwoaptee.com/pfe/current/tag.min.js?z=5752884" data-cfasync="false" async></script>
         <script src="https://propu.sh/pfe/current/tag.min.js?z=5752884" data-cfasync="false" async></script>
         <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+        <script src="script_1.js"></script>
       </Helmet>
       <Navbar />
       <div className={cx.children}>{children}</div>
