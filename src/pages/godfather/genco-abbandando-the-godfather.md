@@ -43,14 +43,6 @@ On the other hand, this scene is a marker for us, the audience. From what we hav
 
 Also, it's worth noting that when Genco was in good shape, Vito made almost no mistakes, at least ones that he later had to regret. And why is that? That's right, because Don had his faithful consigliere, Genco Abandando, at his side. And, notice, as soon as Tom Hagan becomes the Don's consigliere, everything falls apart: the Don sends Brasi to meet Sollozzo, who was no idiot, as a result of which Luca goes to the fishes; and Sollozzo himself, whom Vito rejects, becomes not only a problem for [Corleone](https://vano-vhs.com/godfather), but also a direct threat to the Don's life. I think if the disease hadn’t hit Genco, the problems would have been solved most rapidly and without loss. As we remember, when Don gets a bullet and is in a hospital, Sonny freaks out and declares to Tom that he is a worthless wartime consigliere: you might remember, I wish I had Jenko now, then my enemies would start crying! What do you think, write in the comments?
 
-<a
-                  href="https://www.youtube.com/@vanovhs/videos"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img src="img/SUBSCRIBE.png" />
-                </a>
-
 **Subscribe to my channel, so you don't miss future Godfather videos! My name is Ivan Piatouski, and you're watching Vano VHS!**
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/yLmkzr0Lq0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
