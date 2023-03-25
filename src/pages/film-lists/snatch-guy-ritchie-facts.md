@@ -53,8 +53,6 @@ Hello my Goodfellas! Once [Guy Ritchie](https://youtu.be/RRkIcHjvF4I) produced "
 
     On the other hand, viewers and shareholders immediately praised the film. On a $10 million budget, "Snatch" grossed $83.5 million globally.
 
-    <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RRkIcHjvF4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div
-
 **How To Get Audible For Free?** 
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/DX3Cwge33Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
