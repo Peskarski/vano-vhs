@@ -1,10 +1,10 @@
 ---
 templateKey: review-post
 title: A SHOCKING backstory behind Martin SCORSESE's new movie (2023)
-date: 2023-08-14T09:17:10.844Z
+date: 2023-08-14T11:42:19.893Z
 description: Learn the shocking story behind Martin Scorsese's Killers of the
   Flower Moon! It is hard to believe!
-featuredimage: /img/the_irishman.jpg
+featuredimage: /img/065_killers_of_the_flower_moon.jpg
 tags:
   - hot
   - crime
@@ -21,9 +21,9 @@ In the twenties, the people of the Osage Indian tribe in Oklahoma, USA, were the
 
 In 1921 Congress passed a law requiring the appointment of trustees for each Osage, who would manage their financial affairs until they showed competence. Even minors with less than half Osage blood were assigned trustees, regardless of the presence of living parents. Trustees were appointed from  local white lawyers and businessmen who, with incentives for crime, frequently resorted to legal machinations to steal land, property rights, and fees from the Osages. Some trustees were even suspected of murdering their wards in order to gain property rights.
 
-The time had come for William Hale and his cohorts. Not much is known about Hale's early life except that he was born in Greenville, Texas. Apparently he came to the Osage Indian Reservation shortly before the turn of the twentieth century.
+The time had come for [William Hale](https://en.wikipedia.org/wiki/William_Hale_(cattleman)) and his cohorts. Not much is known about Hale's early life except that he was born in Greenville, Texas. Apparently he came to the Osage Indian Reservation shortly before the turn of the twentieth century.
 
-![](/img/irishman-the-true-story.00_00_10_00.still001.png)
+![](/img/sequence-03_shorter_intro.00_03_58_06.still004.png)
 
 <a href="https://www.patreon.com/bePatron?u=79936642" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
@@ -33,7 +33,7 @@ The events in Osage County did not concern the Oklahoma State Police at all. Fur
 
 However, the newly minted banker was not satisfied with what he had achieved, and the series of murders continued. When several Native Americans asked a lawyer to start proceedings against Hale, the lawyer unexpectedly "fell off" a speeding train. Hale provided him with luxurious funerals. Now no lawyer would take on a case if their client was an Osage Indian. Local authorities also did nothing. Meanwhile, the banker-murderer was preparing a deal that was supposed to bring him over three hundred thousand dollars.
 
-![](/img/irishman-the-true-story.00_01_44_20.still004.png)
+![](/img/sequence-03_shorter_intro.00_02_48_43.still003.png)
 
 This was approximately the value of the property of an elderly Native American woman named Lizzie Qiros. She had oil shares and unprecedented wealth by Indian standards. She had three daughters: Rita Smith, who was married to a white man, Anna Brown, whose husband died in an accident (an exception without Hale's help), and finally, Molly - the youngest unmarried girl.
 
@@ -45,7 +45,7 @@ Soon after, Molly fell ill, and it was later discovered that she had been poison
 
 A month later, Hale went to the annual cattle fair in Texas. When he returned, Fairfax was gripped with horror and panic, which he learned about at the train station. At three o'clock in the morning, a powerful explosion shook the city, and a whole house was blown into the air. Hale immediately ordered himself to be taken to his friend, the sheriff, where he received pleasant news: the cause of the explosion could not be determined because there were no traces left, and the owners of the house were torn to pieces. These owners were Bill and Rita Smith, who had recently lived on the reservation. Smith and his Native American wife had moved to town at Hale's urging.
 
-![](/img/irishman-the-true-story.00_03_15_14.still005.png)
+![](/img/sequence-03_shorter_intro.00_00_11_46.still001.png)
 
 That same evening, an unwelcome guest came to the "king of the Osage hills." It was a heavily drunk Ace Kirby, a lumpen who had already carried out delicate assignments for the banker-criminal on more than one occasion. Hale asked sharply:
 
@@ -73,7 +73,7 @@ Kirby didn't need time to think about it.
 
 In high spirits, Acy Kirby faded into the darkness.
 
-![](/img/irishman-the-true-story.00_03_39_18.still006.png)
+![](/img/sequence-03_shorter_intro.00_07_34_39.still008.png)
 
 The next morning, Hale was strolling along Main Street. Finally, he went into Lincoln's pharmacy. There, he told them that late yesterday evening, he was inspecting the remains of the blown-up house and heard a few snippets of a conversation from a passing car. The conversation was apparently about Lincoln's pharmacy and a spectacular fireworks display. He didn't see any connection until it dawned on him this morning. The criminals were obviously in the car, and the words could have referred to the pharmacy. He decided to warn them so that the owners could prepare a "warm" reception for the boys.
 
@@ -83,7 +83,7 @@ When silence fell behind the pharmacy door, the light flashed on. In pools of bl
 
 The next "blunder" was obvious: the Native Americans were by no means indifferent to the crimes committed against their fellow tribesmen. They sent complaints to all possible authorities, including the governor of Oklahoma, asking for protection. Gradually, everyone understood that the "king of the Osage hills" was benefiting from all these murders. After the explosion in Fairfax, a tribal council was held. The elders drew up a petition to the Minister of the Interior in Washington.
 
-![](/img/irishman-the-true-story.00_06_21_06.still007.png)
+![](/img/sequence-03_shorter_intro.00_06_15_48.still007.png)
 
 The petition stated, "Since many members of our tribe have been killed, and other crimes have been committed against them, we have decided to ask the Minister of the Interior to order the department to capture and bring to justice the killers of our tribe." This was followed by a detailed list of unsolved murders and crimes that resulted in many Native Americans losing their property. In April 1923, the letter from the Native Americans landed on the desk of the Minister of the Interior.
 
@@ -93,7 +93,7 @@ In the summer of 1923, four people settled in Fairfax one after another: a cattl
 
 Initially, they began investigating a series of murders within the Lizzie Quiros family, and soon they were able to discover and identify the body of Native American Henry Running Horse. In other cases, the bodies could not be identified, so further investigation was not pursued. Thus, formal grounds for the murders of Anna Brown, Lizzie Quiros, Bill and Rita Smith were not investigated. However, what was connected with the death of Henry Running Horse provided enough evidence. Shortly before the murder of this Native American, his life was insured for twenty five thousand dollars in favor of William Hale.
 
-![](/img/irishman-the-true-story.00_10_46_06.still009.png)
+![](/img/sequence-03_shorter_intro.00_10_44_55.still009.png)
 
 Further searches in the archives of various insurance companies revealed a large number of similar cases. Almost all insurance payouts made immediately after the insurance policy was signed went to Hale's bank account. In addition, the insured died in mysterious ways. In any case, the trail led to the "king of the Osage hills." One prisoner in an Oklahoma prison confessed that Hale had paid him for two murders. The trick Hale used to get rid of one of his accomplices, Ace Kirby, also became known. No matter which direction the FBI special agents investigated - whether they dug into old court cases or discreetly questioned people - each time they came across Hale.
 
@@ -103,7 +103,7 @@ The killer banker was arrested. He behaved calmly. "I'll be back soon!" Hale exc
 
 And he almost got away with it. Hale hired the most seasoned lawyers in Oklahoma. After the first trial, they succeeded in getting a ruling from the district court that the case was not within the jurisdiction of the federal court. The US Supreme Court overturned this verdict, so a second trial was necessary. During this trial, one of the defense witnesses gave false testimony under oath, and the jurors were "unable" to find Hale guilty. The question remained open. This led to a third trial and Hale's conviction. Then his lawyers appealed and succeeded in getting the verdict overturned. The reason given for the case to be reconsidered was that the proceedings were not held in the proper district.
 
-![](/img/irishman-the-true-story.00_11_43_03.still010.png)
+![](/img/sequence-03_shorter_intro.00_05_34_49.still006.png)
 
 All of this dragged on for another three years, and Hale appeared in court for the fourth time only in 1929. After four trials, on October 29, 1929, the Federal District Court found Hale guilty of only one murder - the murder of Anna Brown's cousin, Henry Roan - and he was sent to Leavenworth prison in Kansas. He was sentenced to life in prison but was released on parole on July 31, 1947. Hale spent the rest of his life in Montana, working on a ranch owned by Benny Binion. He died in Arizona in 1962 and was buried in Wichita, Kansas.
 
