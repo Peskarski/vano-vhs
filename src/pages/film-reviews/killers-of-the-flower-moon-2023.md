@@ -1,6 +1,6 @@
 ---
 templateKey: review-post
-title: A SHOCKING backstory behind Martin SCORSESE's new movie (2023)
+title: A SHOCKING backstory behind Martin SCORSESE's new movie
 date: 2023-08-14T11:42:19.893Z
 description: Learn the shocking story behind Martin Scorsese's Killers of the
   Flower Moon! It is hard to believe!
@@ -111,7 +111,7 @@ Bryan Burkhart gave testimony during the investigation, becoming a witness rathe
 
 Officially, Hale's story in the United States is considered "one of the most fantastic cases of the FBI," and it's hard to disagree with that. After all, isn't it fantastic that the "king of the Osage hills" committed crimes with impunity for so long, the FBI calmly watched what was happening, and the courts listened to Hale's lawyers for three decades?
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/HqMCro7ih_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/oi8JPaHYFu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 **How To Get Audible For Free?** 
 
